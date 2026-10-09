@@ -7,10 +7,10 @@ An end-to-end **Data Analytics Project** featuring dataset processing and an int
 ## 🖼️ **Project Visuals**
 
 ### 1. **Interactive Excel Dashboard**
-![Pizza Sales Dashboard](Dashboard-image_4.png)
+![Pizza Sales Dashboard](Dashboard-image.png)
 
 ### 2. **Source Raw Data**
-![Pizza Sales Dataset Preview](Data_4.png)
+![Pizza Sales Dataset Preview](Data.png)
 
 ---
 
